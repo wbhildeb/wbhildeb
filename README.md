@@ -5,6 +5,9 @@ I'm a fourth-year student at Univerisy of Waterloo pursuing my Bachelors of Comp
 I wouldn't use the word ✨*polished*✨ for my repositories here. I tend to use these projects as a way to learn new technologies, and then move on to my next new passion or lose focus when work or school picks up. That being said I think I have some pretty cool projects so feel free to check them out!
 
 ### My Latest Internships 👨🏼‍💻
+🍁 **(Upcoming) Fall 2021 at Facebook:**
+I'm going to be working on the Network Delivery Systems - Monitoring Team this fall starting late August. 
+
 ❄️ **Winter 2021 at NVIDIA:**
 I worked as a Performance Software Engineering Intern on the [TensorRT](https://developer.nvidia.com/tensorrt) team where I contributed to the realease of TenosrRT 8.0, and implemented e2e validation for compilation and inference of Tacotron2 and BERT HF engines
 
